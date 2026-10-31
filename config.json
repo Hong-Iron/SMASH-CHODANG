@@ -1,0 +1,115 @@
+{
+  "code": "CHODANG",
+  "title": "SMASH CHODANG",
+  "school": "초당대",
+  "fullName": "초당대학교",
+  "campusName": "초당대학교",
+  "tagline": "초당대를 부셔 (시험기간 스트레스 해소)",
+  "description": "초당대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 초당대학교 3D 화면과 SMASH CHODANG 제목",
+  "url": "https://hong-iron.github.io/SMASH-CHODANG/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 421761251
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        34.9775224,
+        126.4730633
+      ],
+      "n": "우의관",
+      "why": "같은 건물 겹침 — 브이월드에는 우의관(8층 기숙사)으로 적혀 있지만 그 자리에는 중앙공원 가장자리의 낮은 곡선 구조물만 있고, 진짜 우의관은 14번이라 같은 건물을 두 번 그린 것이다."
+    },
+    {
+      "at": [
+        34.9769272,
+        126.4760946
+      ],
+      "n": "",
+      "why": "같은 건물 겹침 — 테니스장 옆의 길쭉한 흰 지붕 구조물 하나를 28번과 겹쳐서 한 번 더 그린 것이다."
+    },
+    {
+      "at": [
+        34.9799649,
+        126.4708435
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 정문 옆 도로 필지(397-5 도)의 오솔길 위에 그려져 있고, 그 자리에 학교 건물이 없다."
+    },
+    {
+      "at": [
+        34.9782859,
+        126.470954
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 중앙도서관 모서리 옆에는 건물 그림자와 나무숲만 보이고, 옛 지도의 윤곽만 있을 뿐 건물 기록이 없다."
+    }
+  ],
+  "look": {
+    "본관": {
+      "style": "stone",
+      "wall": "#f3e6dc",
+      "glass": "#39414f",
+      "frame": "#e2dcd4"
+    },
+    "중앙도서관": {
+      "style": "tan",
+      "wall": "#efe2c6",
+      "glass": "#2b3b3c",
+      "frame": "#d8d0bc"
+    },
+    "미래관": {
+      "style": "ribbon",
+      "wall": "#b8968d",
+      "glass": "#3d3f55",
+      "frame": "#d8ccc8"
+    },
+    "다산관": {
+      "style": "ribbon",
+      "wall": "#b0908a",
+      "glass": "#3a3a54",
+      "frame": "#d8d0cc"
+    },
+    "창의관": {
+      "style": "brick",
+      "wall": "#b89a90",
+      "glass": "#3e3f5b",
+      "frame": "#d9c9c7"
+    },
+    "학생회관": {
+      "style": "stone",
+      "wall": "#e3d6d0",
+      "glass": "#2a3436",
+      "frame": "#b9a59c"
+    },
+    "문화관": {
+      "style": "concrete",
+      "wall": "#c2c4cc",
+      "glass": "#3b3f5b",
+      "frame": "#a0a2b2"
+    },
+    "체육관": {
+      "style": "concrete",
+      "wall": "#c9cbd4",
+      "glass": "#283d52",
+      "frame": "#8f99a8"
+    },
+    "동백관": {
+      "style": "dorm",
+      "wall": "#e2e4e5",
+      "glass": "#344442",
+      "frame": "#cacccd"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
