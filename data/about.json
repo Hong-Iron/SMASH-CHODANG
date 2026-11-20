@@ -1,0 +1,34 @@
+{
+ "region": "전남 무안군 무안읍",
+ "nameEn": "Chodang University",
+ "added": "2026-11-01T02:27",
+ "rank": 167,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "MNU",
+   "campus": "국립목포대학교 도림캠퍼스",
+   "km": 8.2
+  },
+  {
+   "code": "MSU",
+   "campus": "목포과학대학교",
+   "km": 19.8
+  },
+  {
+   "code": "MMU",
+   "campus": "국립목포해양대학교",
+   "km": 22.8
+  },
+  {
+   "code": "DONGSHIN",
+   "campus": "동신대학교",
+   "km": 23.5
+  },
+  {
+   "code": "SEHAN",
+   "campus": "세한대학교 영암캠퍼스",
+   "km": 25.5
+  }
+ ]
+}
